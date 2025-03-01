@@ -86,7 +86,7 @@ Personalized Offers: Data-driven insights can help in crafting customer-specific
 
 Customer Retention Strategies: Engagement methods for low-spending customers should be explored.
 
-8. Conclusion
+## 8. Conclusion
 
 The customer segmentation model provides valuable insights into customer purchasing patterns. These insights can be leveraged for strategic decision-making, improving customer satisfaction, and increasing revenue.
 
